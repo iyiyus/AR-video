@@ -1,0 +1,9 @@
+Package: com.arvideo.yiyu
+Name: ARvideo
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: VCAM4iOS (iOS 16 / roothide, 三指长按控制)
+Maintainer: trizau
+Author: trizau
+Section: Tweaks
+Depends: ellekit
